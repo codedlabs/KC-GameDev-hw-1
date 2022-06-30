@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="images/player%20health%20bar.png">
+<img src="/folder/player%20health%20bar.png">
  
 </p>
 
@@ -27,6 +27,6 @@ Sample Output :
 
 </p>
 
-<img src="/images/sample%20output.png">
+<img src="/folder/sample%20output.png">
 
 
